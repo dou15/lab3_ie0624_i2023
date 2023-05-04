@@ -154,7 +154,5 @@ void loop(void){
   warningsleds(); 
 
   displaylcd();
-    //Serial.println("luminosidad: " + String(IntensidadLuminosa) + " ,NA: " + String(nivelAgua) + " ,Temperatura: " + String(temperaturadht22) + " ,Oxigeno: " + String(DissolvedOxygen) + " ,pH: " + String(pHValue) + " ,alim. " + "noalimenta");
-    //Serial.println("luminosidad: " + " ,Temperatura: " + " ,Oxigeno: " + " ,pH: " + " ,alim. " + "noalimenta");
   delay(1000);  // 1 segundo en milisegundos   
 }
