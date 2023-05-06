@@ -7,4 +7,6 @@ Archivo: voltimetro_entregable.simu corresponde al circuito empleado en la simul
          comunicacionSerialVoltimetro.py es un script de python para realizar la captura de datos serial y guardarlos en un archivo csv
          pcd8544-master.zip corresponde a la biblioteca de la pantalla pcd8544
          
+Se emplea SimulIDE_0.4.15-SR10.AppImage como simulador del circuito, IDE arduino-ide_2.1.0_Linux_64bit.AppImage para generar los .hex      
+         
 Todo a sido realizado en un sistema linux basado en ubuntu 22.04.         
